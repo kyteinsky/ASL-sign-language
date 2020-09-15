@@ -1,5 +1,5 @@
 import torch
-import torchvision.transforms import transforms
+import torchvision.transforms as transforms
 import os
 import cv2
 from time import time
