@@ -2,7 +2,7 @@
 
 ## Made using PyTorch this simple model has achieved accuracy of 96% on test data.
 
-## Strting up
+## Starting up
 
 Use python 3.7.6
 
